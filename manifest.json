@@ -1,0 +1,77 @@
+﻿{
+  "maintainer": "inertialobs",
+  "source": {
+    "subpath": ".",
+    "ref": "main",
+    "repo": "inertialobs/astrbot-meme-pack-astesia",
+    "type": "github"
+  },
+  "id": "astesia-001",
+  "tags": [
+    "astesia",
+    "arknights",
+    "vtuber",
+    "chibi",
+    "gif"
+  ],
+  "version": "1.0.0",
+  "description": "Astesia（星极）Q 版 GIF 表情包，共 57 张，覆盖日常聊天、直播、工作、吃喝与武器道具等场景。",
+  "name": "Astesia 表情包",
+  "categories": {
+    "baka": {
+      "description": "吐槽、轻微责备、嫌弃或反讽时使用（如对方犯傻、反向点赞、敲头、笑指）"
+    },
+    "birthday": {
+      "description": "生日祝福、庆生或送蛋糕时使用（蛋糕）"
+    },
+    "color": {
+      "description": "暧昧、调情或表达爱意时使用（情书、爱心通知、催眠）"
+    },
+    "cpu": {
+      "description": "技术问题、加载中或思维卡顿时使用（如 Bug、PNGTuber 加载中）"
+    },
+    "food": {
+      "description": "吃东西或嘴馋时使用（馋、到达餐桌）"
+    },
+    "fool": {
+      "description": "自嘲、摆烂、尴尬或搞笑场景使用（坐牢、垃圾桶、死亡、自我安慰）"
+    },
+    "givemoney": {
+      "description": "涉及要钱、红包或报酬时使用（要米）"
+    },
+    "happy": {
+      "description": "开心、庆祝、成功或鼓励时使用（庆祝、得分满分、加油、笑、节日）"
+    },
+    "like": {
+      "description": "表达喜欢、赞美、收藏或觉得帅气时使用（点赞、墨镜、收藏通知）"
+    },
+    "music": {
+      "description": "唱歌、打 call、应援或音效场景使用（唱歌）"
+    },
+    "agree": {
+      "description": "确认时使用（点头）"
+    },
+    "disagree": {
+      "description": "否定时使用（摇头）"
+    },
+    "see": {
+      "description": "观察、偷看、记录或抓拍时使用（冒泡、抓拍、记录）"
+    },
+    "sigh": {
+      "description": "无奈、无语、疲惫或不想说话时使用（流汗、停止工作、静音、扩音器）"
+    },
+    "sleep": {
+      "description": "睡觉、休息、犯困或催眠时使用（睡觉各阶段、工作小睡、催眠）"
+    },
+    "vtuber": {
+      "description": "虚拟主播或直播场景使用（PNGTuber、TrashTuber、Popcat、Raid、到达）"
+    },
+    "weapon": {
+      "description": "使用武器或道具时使用（刀、枪、撬棍、喷剂、拍蝇、胶带）"
+    },
+    "work": {
+      "description": "工作、学习、打字或通勤时使用（工作状态、打字、画板、驾驶）"
+    }
+  },
+  "license": "CC-BY-NC-SA-4.0"
+}
